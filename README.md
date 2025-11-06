@@ -1,1 +1,3 @@
 # Customer-Segmentation-KMeans
+
+Este proyecto se centra en entrenar un modelo de inteligencia artificial mediante aprendizaje no supervisado, concretamente con un método denominado como Clustering con el objetivo de que dicho modelo nos ayude a realizar una segmentación de cliente. El presente trabajo fue elaborado por Kevin Alan Torres Cruz, un estudiante de los Estudios Técnicos Especializados en Computación de la Escuela Nacional Preparatoria No.6 “Antonio Caso” en colaboración con la técnica académica Ingrid Midory Monterroso Alfaro, responsable del programa de Prácticas Profesionales “Data Minds. Laboratorio de Inteligencia Artificial” del plantel Número 4 “Vidal Castañeda y Najera”.
